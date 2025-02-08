@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIRAISAN-KINA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="flex-iframe">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsKFo5sHFw3b5qnH1jT3JDKuJpnllt8Cy6vgjZw4_ymeOw8g/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+</div>
+</body>
+</html>
